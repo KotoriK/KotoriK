@@ -1,7 +1,7 @@
 ![iriya](https://raw.githubusercontent.com/KotoriK/KotoriK/main/iriya.png)
 ### About me
-![most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=KotoriK&layout=compact&theme=calm&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=KotoriK&layout=compact&theme=calm&hide_border=true&hide=issues&show_icons=true)
+<img align="center" alt="most used lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KotoriK&layout=compact&theme=calm&hide_border=true&langs_count=6"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KotoriK&layout=compact&theme=calm&hide_border=true&hide=issues&show_icons=true"/>
 <!--
 **KotoriK/KotoriK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
